@@ -1,0 +1,76 @@
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Yohana
+  last_name: Alvarado
+
+  summary: >
+    Summarize your career here lorem ipsum dolor sit amet, consectetuer
+
+    adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+    Donec quam felis, ultricies nec, pellentesque eu.
+
+
+    Second paragraph if required.
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+  email: manacima2019@gmail.com
+  github: yoalvarado25
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Spanish
+      level: Native
+  interests:
+    - item: Climbing
+    - item: Cooking
+education:
+  - degree: Marketing
+    university: University of Honduras
+    time: 2005 - 2010
+    details: 
+
+      El marketing se enfoca en varios campos, entre ellos esta,
+      el area de ventas, publicidad, investigacion de mercados, innovacion, creacion de nuevos productos.
+
+        - Bullet point
+        - Bullet point
+experiences:
+  - role: Administrador de tienda
+    time: 2022 - Present
+    company: food valley sula
+    details: |
+      Mis deberes son, hacer horarios rotativos de los empleados, hacer pedidos a los distintos proveedores, 
+      mantener el buen funcionamiento del restaurante, manejo del personal.
+        - Bullet point
+        - Bullet point
+  - role: Administrador
+    time: 2017 - 2021
+    company: Oscars Design 
+    details: |
+      Realizar pedidos a los distintos proveedores, control de entradas y salidas de mercaderia,
+      contabilidad general, pagos a los empleados y a los proveedores.
+
+projects:
+  intro: >
+    You can list your side projects or open source libraries in this section.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
+    ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#hook"
+      tagline: A responsive website template designed to help startups promote, market
+        and sell their products.
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    
